@@ -353,10 +353,6 @@ h1, h2, h3, p {
   margin-right: 10px;
 }
 
-.footer__link-text {
-  display: inline-block;
-}
-
 .footer__social-icon_media_Facebook {
   background-image: url(../images/facebook_color_white.svg);
 }
