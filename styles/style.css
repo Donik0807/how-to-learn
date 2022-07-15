@@ -254,6 +254,7 @@
 .kaufman__section-title {
   margin: 0 auto;
   padding-top: 90px;
+  position: relative;
 }
 
 .section-subtitle_theme_dark {
@@ -262,6 +263,7 @@
 
 .kaufman__section-subtitle {
   margin: 20px auto 0;
+  position: relative;
 }
 
 .table_theme_dark {
